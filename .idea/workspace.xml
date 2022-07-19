@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a7b4a7d-2054-40bd-ae33-ea167987132e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29TgqE5OWDRmR9Sifv7b9mkC5kr" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ning-Blog-Protect/vueblog" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LC75">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleLinkedList.Demo" />
+      <module name="LC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CircleLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC46" />
+      <module name="LC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC56" />
+      <module name="LC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC64" />
+      <module name="LC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC75" />
+      <module name="LC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LC75" />
+        <item itemvalue="Application.LC64" />
+        <item itemvalue="Application.LC46" />
+        <item itemvalue="Application.LC56" />
+        <item itemvalue="Application.Demo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a7b4a7d-2054-40bd-ae33-ea167987132e" name="Default Changelist" comment="" />
+      <created>1653142679328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653142679328</updated>
+      <workItem from="1653142680712" duration="1527000" />
+      <workItem from="1653183452751" duration="3643000" />
+      <workItem from="1653269209798" duration="2560000" />
+      <workItem from="1653353942592" duration="314000" />
+      <workItem from="1653354400152" duration="22000" />
+      <workItem from="1653354474424" duration="27000" />
+      <workItem from="1653354517627" duration="63000" />
+      <workItem from="1653354602853" duration="7000" />
+      <workItem from="1653354626549" duration="31000" />
+      <workItem from="1653354675173" duration="103000" />
+      <workItem from="1653354809794" duration="643000" />
+      <workItem from="1653355478671" duration="48000" />
+      <workItem from="1653355561983" duration="14000" />
+      <workItem from="1653355603015" duration="10000" />
+      <workItem from="1653355630229" duration="84000" />
+      <workItem from="1653355732283" duration="120000" />
+      <workItem from="1653355878988" duration="30000" />
+      <workItem from="1653355930324" duration="178000" />
+      <workItem from="1653356127606" duration="47000" />
+      <workItem from="1653356190499" duration="309000" />
+      <workItem from="1653356518129" duration="41000" />
+      <workItem from="1653356615479" duration="68000" />
+      <workItem from="1653357637962" duration="531000" />
+      <workItem from="1653358253534" duration="5584000" />
+      <workItem from="1653443399921" duration="4419000" />
+      <workItem from="1653538344297" duration="3493000" />
+      <workItem from="1653614939086" duration="5455000" />
+      <workItem from="1653710434394" duration="3357000" />
+      <workItem from="1653810850627" duration="5279000" />
+      <workItem from="1655379635924" duration="2786000" />
+      <workItem from="1655432760390" duration="3923000" />
+      <workItem from="1655516581469" duration="2287000" />
+      <workItem from="1655862106150" duration="4135000" />
+      <workItem from="1656037695952" duration="3129000" />
+      <workItem from="1656412090381" duration="1199000" />
+      <workItem from="1656729880478" duration="1328000" />
+      <workItem from="1656742112127" duration="2499000" />
+      <workItem from="1656846922596" duration="2559000" />
+      <workItem from="1656854644578" duration="3210000" />
+      <workItem from="1656915429445" duration="1113000" />
+      <workItem from="1657075840651" duration="5940000" />
+      <workItem from="1657167314293" duration="4150000" />
+      <workItem from="1657454974510" duration="4177000" />
+      <workItem from="1657542325400" duration="7154000" />
+      <workItem from="1657592678579" duration="5486000" />
+      <workItem from="1657698626931" duration="2596000" />
+      <workItem from="1657786067010" duration="2010000" />
+      <workItem from="1657848153436" duration="10548000" />
+      <workItem from="1657934391251" duration="11603000" />
+      <workItem from="1658020889760" duration="10897000" />
+      <workItem from="1658195800608" duration="3443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="822" y="430" key="#Custom_Plugin_Repositories" timestamp="1653358044449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="430" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1653358044449" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1658021825871">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1653183472258" />
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1041@0.0.1920.1041" timestamp="1658021825871" />
+    <state x="792" y="429" key="#VCS_History_Cache_Settings" timestamp="1657175714000">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="792" y="429" key="#VCS_History_Cache_Settings/0.0.1920.1041@0.0.1920.1041" timestamp="1657175714000" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1658027762167">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1041@0.0.1920.1041" timestamp="1658027762167" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653626690668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653626690668" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1657175737584">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653820299633" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1041@0.0.1920.1041" timestamp="1657175737584" />
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1658200718691">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1041@0.0.1920.1041" timestamp="1658200718691" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1658200718690">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center/0.0.1920.1041@0.0.1920.1041" timestamp="1658200718690" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1658200718690">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left/0.0.1920.1041@0.0.1920.1041" timestamp="1658200718690" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1658200718691">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right/0.0.1920.1041@0.0.1920.1041" timestamp="1658200718691" />
+    <state width="1877" height="337" key="GridCell.Tab.1.bottom" timestamp="1658196256635">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1041@0.0.1920.1041" timestamp="1658196256635" />
+    <state width="1877" height="337" key="GridCell.Tab.1.center" timestamp="1658196256635">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="337" key="GridCell.Tab.1.center/0.0.1920.1041@0.0.1920.1041" timestamp="1658196256635" />
+    <state width="1877" height="337" key="GridCell.Tab.1.left" timestamp="1658196256635">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="337" key="GridCell.Tab.1.left/0.0.1920.1041@0.0.1920.1041" timestamp="1658196256635" />
+    <state width="1877" height="337" key="GridCell.Tab.1.right" timestamp="1658196256635">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1860" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653820300482" />
+    <state width="1877" height="337" key="GridCell.Tab.1.right/0.0.1920.1041@0.0.1920.1041" timestamp="1658196256635" />
+    <state x="451" y="179" key="SettingsEditor" timestamp="1653358168649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="179" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653358168649" />
+    <state x="551" y="182" key="new project wizard" timestamp="1655450063906">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="551" y="182" key="new project wizard/0.0.1920.1041@0.0.1920.1041" timestamp="1655450063906" />
+    <state x="616" y="241" key="run.anything.popup" timestamp="1658021802594">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="616" y="241" key="run.anything.popup/0.0.1920.1041@0.0.1920.1041" timestamp="1658021802594" />
+    <state x="623" y="225" width="672" height="679" key="search.everywhere.popup" timestamp="1657548483526">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653272419282" />
+    <state x="623" y="225" width="672" height="679" key="search.everywhere.popup/0.0.1920.1041@0.0.1920.1041" timestamp="1657548483526" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC189.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC283.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC69.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC744.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC557.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC34.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1539.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC567.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1608.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1351.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1337.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1337.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1346.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SO63.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SO42.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SO58.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC2104.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC392.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC409.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SparseArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SparseArray.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC746.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC62.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC438.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC844.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HJ4.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC15.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HJ13.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC20.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC647.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC5.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC46.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC42.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC49.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC53.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC55.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC56.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC46.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC64.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC75.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LC$LC64.ic" NAME="LC64 Coverage Results" MODIFIED="1658196118954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LC$LC392.ic" NAME="LC392 Coverage Results" MODIFIED="1656730340409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
